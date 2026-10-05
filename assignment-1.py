@@ -34,7 +34,7 @@ print(f'''
 |                                   |
 =====================================
 Item:          {item_name}
-Price:         {item_price}
+Price:         {item_price:.2f}
 Quantity:      {quantity}
 
 _____________________________________
